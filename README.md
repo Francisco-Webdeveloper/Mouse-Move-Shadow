@@ -3,7 +3,7 @@
 ## Background & Objectives
 When the user moves the cursor over the top of the window, the shadow follows around.
 
-https://user-images.githubusercontent.com/67716187/144950853-02215e83-77e0-4164-b88a-6d2dad2b9c14.mov
+https://user-images.githubusercontent.com/67716187/144951699-2ded8dc3-6040-4e03-aa82-5261e253b580.mov
 
 ## Features
 * mousemove event
